@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(182, 227, 138);
+}
+
+.title{
+    font-family: fantasy;
+    color: rgb(9, 56, 90);
+    font-size: 50px;
+}
+#logo{
+    height: 220px;
+    width: 170px;
+    border-radius: 20px;
+}
+#record_btn
+{
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.detail
+{
+    font-size: larger;
+}
+
+#sample_img1,
+#sample_img2,
+#sample_img3
+{
+    width: 30%;
+    border: 2px solid black;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border: 2.5px solid black;
+}
+
+
